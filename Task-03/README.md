@@ -1,7 +1,7 @@
 
 # Task 3: Advanced SQL Queries, CTEs & Window Functions
 
-## Internship
+## Internship 
 RabTech SQL Internship
 
 ## Project Overview
